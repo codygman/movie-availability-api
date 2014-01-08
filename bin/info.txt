@@ -1,0 +1,1 @@
+In this folder you'll find a binary of the api. This file exists just so I can add an empty bin directory for the shell script to work
